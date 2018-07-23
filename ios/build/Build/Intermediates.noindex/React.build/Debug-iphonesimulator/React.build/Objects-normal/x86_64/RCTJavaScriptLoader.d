@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/MY/Desktop/todo-list/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/MY/Desktop/todo-list/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/MY/Desktop/todo-list/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/MY/Desktop/todo-list/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/MY/Desktop/todo-list/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/MY/Desktop/todo-list/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/MY/Desktop/todo-list/node_modules/react-native/React/Base/RCTPerformanceLogger.h
