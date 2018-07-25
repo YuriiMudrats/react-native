@@ -3,10 +3,10 @@ import { connect } from "react-redux";
 import { Container, Header, Content, Form, Item } from "native-base";
 
 import Input from "../../components/Input";
-import {} from '../../actions/index'
+import {} from "../../actions/index";
 // import PropTypes from "prop-types";
 
-export default class SignInForm extends Component {
+class SignInForm extends Component {
   render() {
     // const { userName, userPassword } = this.props;
     return (
@@ -26,11 +26,8 @@ export default class SignInForm extends Component {
   }
 }
 
-const mapDispatchToProps = {
-
-}
-export default connect(null, mapDispatchToProps)(SignInForm)
-
-
-
-
+const mapDispatchToProps = {};
+export default connect(
+  null,
+  mapDispatchToProps
+)(SignInForm);
